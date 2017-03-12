@@ -1,0 +1,9 @@
+@import '_mixin';
+
+.arrow-down{
+	@include triangle('down')
+}
+
+@include bp(xl){
+	color: red;
+}
