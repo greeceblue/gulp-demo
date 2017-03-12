@@ -1,0 +1,11 @@
+.arrow-down {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 0;
+  width: 0;
+  border-top: 0.375rem solid #222;
+  border-left: 0.375rem solid transparent;
+  border-right: 0.375rem solid transparent; }
+@media (max-width: 65.625rem) {
+  color: red; }
