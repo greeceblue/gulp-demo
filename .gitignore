@@ -1,0 +1,10 @@
+**/.DS_Store
+node_modules/
+build/html/
+build/js/
+build/css/
+build/images/
+src/html/
+src/js/
+src/css/
+src/images/
